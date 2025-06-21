@@ -107,4 +107,4 @@ Aggregated Totals: Over 7,400 orders processed with total sales of $4.18M
 📸 Screenshots
 1️⃣ Main Dashboard Overview - https://github.com/Meet2908/Shopify-Dashboard/blob/main/Shopify%20Dashboard.png
 
-2️⃣ Drill-through Report Page -
+2️⃣ Drill-through Report Page - https://github.com/Meet2908/Shopify-Dashboard/blob/main/Drill-through%20Report.png
