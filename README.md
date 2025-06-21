@@ -105,6 +105,6 @@ Aggregated Totals: Over 7,400 orders processed with total sales of $4.18M
 📈 Sales Optimization: Identify best-performing hours and days for strategic promotions
 
 📸 Screenshots
-1️⃣ Main Dashboard Overview
+1️⃣ Main Dashboard Overview - https://github.com/Meet2908/Shopify-Dashboard/blob/main/Shopify%20Dashboard.png
 
-2️⃣ Drill-through Report Page
+2️⃣ Drill-through Report Page -
